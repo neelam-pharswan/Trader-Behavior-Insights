@@ -67,20 +67,15 @@ Such patterns can improve trade timing and risk management in volatile crypto ma
 ---
 
 ## 📎 Files Included
-- `trader_sentiment_analysis.ipynb` – Jupyter notebook with code & analysis
+- `trader_sentiment_analysis.ipynb` – Google Colab notebook with code & analysis (viewable on GitHub or Colab)
 - `README.md` – This file
-
+- ▶️ [Open in Colab](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/trader_sentiment_analysis.ipynb)
 ---
 
-## 📬 Submission
-Send your notebook GitHub link to:
-- 📩 `saami@bajarangs.com`  
-- 📩 `nagasai@bajarangs.com`  
-- CC: `sonika@primetrade.ai`  
 **Subject:** `Junior Data Scientist – Trader Behavior Insights`
 
 ---
 
 ## 🧑‍💻 Author  
 **Neelam Pharswan**  
-[LinkedIn](https://www.linkedin.com/in/neelam-pharswan/)) 
+[LinkedIn](https://www.linkedin.com/in/neelam-pharswan/)
