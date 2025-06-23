@@ -52,8 +52,9 @@ The goal is to uncover how market sentiment impacts trading performance and gene
 ---
 
 ## 📈 Visualizations
-- Boxplots of PnL by Sentiment (with and without outliers)
-- Comparative analysis of Buy vs Sell under different sentiment states
+- Boxplot of Closed PnL by Market Sentiment (with outliers)
+- Boxplot of Closed PnL by Market Sentiment (after removing outliers)
+- Comparative analysis of Buy vs Sell average PnL across sentiment states
 
 ---
 
@@ -69,7 +70,7 @@ Such patterns can improve trade timing and risk management in volatile crypto ma
 ## 📎 Files Included
 - `trader_sentiment_analysis.ipynb` – Google Colab notebook with code & analysis (viewable on GitHub or Colab)
 - `README.md` – This file
-- ▶️ [Open in Colab](https://colab.research.google.com/drive/13cXd2nnFP93a_3sX7iuyvoKr0pjzkmpt?usp=sharing))
+- ▶️ [Open in Colab](https://colab.research.google.com/drive/13cXd2nnFP93a_3sX7iuyvoKr0pjzkmpt?usp=sharing)
 ---
 
 **Subject:** `Junior Data Scientist – Trader Behavior Insights`
