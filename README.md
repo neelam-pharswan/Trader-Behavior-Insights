@@ -83,4 +83,4 @@ Send your notebook GitHub link to:
 
 ## 🧑‍💻 Author  
 **Neelam Pharswan**  
-[LinkedIn](https://www.linkedin.com) *(Add your link here)*  
+[LinkedIn](https://www.linkedin.com/in/neelam-pharswan/)) 
